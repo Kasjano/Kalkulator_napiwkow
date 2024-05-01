@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Kalkulator napiwków</string>
+    <string name="Kalkulator_napiwkow">Kalkulator napiwków</string>
+    <string name="Podaj_kwote">Podaj kwotę</string>
+    <string name="podaj_warto_napiwku">Podaj wartość napiwku w ,,%</string>
+    <string name="jako_posilku">Jakość posiłku</string>
+    <string name="ocena_jakosci_obslugi">Ocena jakości obsługi</string>
+    <string name="oblicz_napiwek">Oblicz napiwek</string>
+    <string name="podaj_kwot">Podaj kwotę</string>
+    <string name="podaj_warto_napiwku_w">Podaj wartość napiwku w ,,%</string>
+    <string name="ocena_jako_ci_obs_ugi">Ocena jakości obsługi</string>
+    <string name="wprowad_procentow_warto_napiwku">Wprowadź procentową wartość napiwku:</string>
+    <string name="kalkulator_napiwk_w">Kalkulator napiwków</string>
+    <string name="_0">0</string>
+    <string name="czy_jedzenie_by_o_smaczne">Czy jedzenie było smaczne?</string>
+    <string name="wprowad_warto_napiwku_w_procentach_zap_aconej_kwoty">Wprowadź wartość napiwku w procentach zapłaconej kwoty:</string>
+    <string-array name="jakosc_obslugi_array">
+        <item>Super</item>
+        <item>Dobra</item>
+        <item>Akceptowalna</item>
+        <item>Beznadziejna</item>
+    </string-array>
+    <string-array name="jakosc_posiłku_array">
+        <item>Tak</item>
+        <item>Nie</item>
+        <item>Nie mam zdania</item>
+    </string-array>
+</resources>
+
+
